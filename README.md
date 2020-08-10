@@ -1,7 +1,7 @@
 # Titanic_Analysis
 Analyzing the Titanic Dataset 
 
-EDA and logistic regression
+EDA and logistic regression (pandas, numpy, matplotlib, seaborn)
 
 - Clean Data 
 - Data exploration
